@@ -1,0 +1,5 @@
+- 👋 Hi, I’m CarnageTheDev
+- 👀 I’m interested in Discord.js
+- 🌱 I’m currently learning Python
+- ✉️ Discord Server For Contact: https://discord.gg/ueqHf5tDnJ
+- 📫 How to reach me? On My Discord -CarnageTheDev
