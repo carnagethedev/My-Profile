@@ -2,7 +2,7 @@
 - 👀 I’m interested in Discord.js
 - 🌱 I’m currently learning Pyton
 
-- 📫 How to reach me-On My Discord -Carnage.exe₹8475
+- 📫 How to reach me-On My Discord -CarnageTheDev
 
 <!---
 001Carnage001/001Carnage001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
